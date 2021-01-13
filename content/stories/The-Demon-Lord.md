@@ -1,6 +1,6 @@
 +++
 title="The Demon Lord"
-date=2020-08-28
+date=2020-08-29
 
 [taxonomies]
 categories = ["Stories"]

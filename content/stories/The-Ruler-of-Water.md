@@ -1,6 +1,6 @@
 +++
 title="The Ruler of Water"
-date=2020-08-28
+date=2021-01-13
 
 [taxonomies]
 categories = ["Stories"]
@@ -17,6 +17,8 @@ just how many poor bastards the whimsical Ruler of the Underworld had annoyed
 with his constant insult, but it was another thing to be mistaken as a woman by
 humans. Heck even his contractor, the ever adorable and sweet Maes, mistook him
 for a woman when they first met and still is sometimes when he was drunk!
+
+<!-- more -->
 
 Posing in front of the mirror (crafted by his gifted children) he wondered how
 could anyone mistook him for a man. His clear sky hair that reach his waist
